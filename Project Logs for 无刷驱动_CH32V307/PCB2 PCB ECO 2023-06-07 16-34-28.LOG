@@ -1,0 +1,134 @@
+Change Component Footprint: Designator=R92 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R93 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R94 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R95 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R96 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R97 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R98 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R99 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R100 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R101 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R102 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R103 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R104 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R105 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R106 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R107 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R108 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R109 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R110 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R111 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R112 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R114 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R115 Old Footprint=R 0805_L New Footprint=R 0603_L
+Change Component Footprint: Designator=R116 Old Footprint=R 0805_L New Footprint=R 0603_L
+Added Member To Class: ClassName=Sheet1 Member=Component C1 1uF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C3 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 20pF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 20pF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C10 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C11 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C12 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C13 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C14 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C15 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C16 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C17 220pF
+Added Member To Class: ClassName=Sheet1 Member=Component C18 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C19 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C20 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C21 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C22 10uF/10V
+Added Member To Class: ClassName=Sheet1 Member=Component C23 100nF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C24 10uF/10V
+Added Member To Class: ClassName=Sheet1 Member=Component C25 100nF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C26 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C27 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C28 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C29 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C30 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C31 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C32 4.7uF/25V
+Added Member To Class: ClassName=Sheet1 Member=Component C33 4.7uF/25V
+Added Member To Class: ClassName=Sheet1 Member=Component C34 4.7uF/25V
+Added Member To Class: ClassName=Sheet1 Member=Component C37 4.7uF/25V
+Added Member To Class: ClassName=Sheet1 Member=Component C38 22uF/25V
+Added Member To Class: ClassName=Sheet1 Member=Component C39 22uF/25V
+Added Member To Class: ClassName=Sheet1 Member=Component D2 1N5819HW
+Added Member To Class: ClassName=Sheet1 Member=Component D4 1N5819HW
+Added Member To Class: ClassName=Sheet1 Member=Component D5 SS54
+Added Member To Class: ClassName=Sheet1 Member=Component D6 SMDJ20CA_C438259
+Added Member To Class: ClassName=Sheet1 Member=Component D7 SMDJ20CA_C438259
+Added Member To Class: ClassName=Sheet1 Member=Component D8 SMF3.3A
+Added Member To Class: ClassName=Sheet1 Member=Component D9 MMSZ3V6
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 TPH1R403NL
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 TPH1R403NL
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 TPH1R403NL
+Added Member To Class: ClassName=Sheet1 Member=Component Q7 TPH1R403NL
+Added Member To Class: ClassName=Sheet1 Member=Component Q9 TPH1R403NL
+Added Member To Class: ClassName=Sheet1 Member=Component Q11 TPH1R403NL
+Added Member To Class: ClassName=Sheet1 Member=Component R9 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R10 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R14 4.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R16 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R18 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R19 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R20 2.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R21 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R22 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R23 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R24 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R26 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R27 2.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R28 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R29 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R30 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R31 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R32 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R33 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R34 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R35 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R36 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R38 4.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R40 4.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R42 2.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R44 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R46 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R48 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R50 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R52 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R54 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R56 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R58 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R60 47K
+Added Member To Class: ClassName=Sheet1 Member=Component R62 2.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R64 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R66 20K
+Added Member To Class: ClassName=Sheet1 Member=Component R68 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R70 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R72 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R74 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R76 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R92 4.7R
+Added Member To Class: ClassName=Sheet1 Member=Component R93 4.7R
+Added Member To Class: ClassName=Sheet1 Member=Component R94 4.7R
+Added Member To Class: ClassName=Sheet1 Member=Component R95 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R97 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R101 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R102 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R103 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R104 4.7R
+Added Member To Class: ClassName=Sheet1 Member=Component R105 4.7R
+Added Member To Class: ClassName=Sheet1 Member=Component R106 4.7R
+Added Member To Class: ClassName=Sheet1 Member=Component R107 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R109 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R111 4.7R
+Added Member To Class: ClassName=Sheet1 Member=Component R113 50mR
+Added Member To Class: ClassName=Sheet1 Member=Component R114 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R115 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R116 10K
+Added Room: Name=Sheet1

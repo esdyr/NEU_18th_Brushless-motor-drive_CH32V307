@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BREAK1 Pin=D2-2
+Change Component Footprint: Designator=D2 Old Footprint=SOD-323 New Footprint=SOD-123-L
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SOD-323"; UniqueID = "\GOTAJFHF" ("\GOTAJFHF")
+Change component parameters (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1N5819HW"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BREAK1 Pin=D2-K
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R19-2
+Added Pin To Net: NetName=NetD2_A Pin=S1-2
+Added Net: Name=NetD2_A

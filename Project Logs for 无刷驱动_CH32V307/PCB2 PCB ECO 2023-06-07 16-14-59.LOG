@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=E1 Old Footprint=CAP 5.0*12.5*20 New Footprint=CAP 5.0*10*12.5
+Change Component Footprint: Designator=E2 Old Footprint=CAP 5.0*12.5*20 New Footprint=CAP 5.0*10*16
+Added Room: Name=Sheet1

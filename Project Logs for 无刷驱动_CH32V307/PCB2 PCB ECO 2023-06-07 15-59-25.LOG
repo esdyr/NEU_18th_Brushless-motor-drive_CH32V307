@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=E1 Old Footprint=CAP 1.5*4*8 - BK New Footprint=CAP 2.0*5*11
+Change Component Footprint: Designator=E2 Old Footprint=CAP 1.5*4*8 - BK New Footprint=CAP 2.0*5*11
+Added Member To Class: ClassName=Sheet1 Member=Component 3 M3
+Added Member To Class: ClassName=Sheet1 Member=Component 4 M4
+Added Room: Name=Sheet1
